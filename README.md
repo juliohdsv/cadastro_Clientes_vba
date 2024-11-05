@@ -9,7 +9,7 @@ Clique no botão verde e depois em download zip, conforme a imagem abaixo.
   
 ![image](https://github.com/user-attachments/assets/6d896e90-b11b-4a41-8d5c-9cb0f279c3f7)
 
-# Etapas para autoamtizar
+## Etapas para automatizar
 
 - Estrutura
     - [x]  Criar aba de banco de dados
